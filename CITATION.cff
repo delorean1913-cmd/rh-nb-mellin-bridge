@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the repository release and the specific finite artifact or note used."
+title: "RH NB Mellin Bridge"
+version: "0.1"
+date-released: "2026-05-13"
+license: "MIT"
