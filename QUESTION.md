@@ -62,5 +62,5 @@ and prove low, medium, and tail estimates separately. The main obstruction appea
 Add the GitHub repository link here after uploading:
 
 ```text
-https://github.com/YOUR-USERNAME/rh-nb-mellin-bridge
+https://github.com/delorean1913-cmd/rh-nb-mellin-bridge
 ```
